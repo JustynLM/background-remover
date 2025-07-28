@@ -1,0 +1,7 @@
+# Smart Background Remover - Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core image processing library
+pillow>=10.0.0
+
+# Note: tkinter comes built-in with Python, no installation needed
