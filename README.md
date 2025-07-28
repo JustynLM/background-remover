@@ -11,14 +11,14 @@ Smart Selection Tools
 Magic Wand Tool - Click multiple areas to build your selection intelligently
 Auto-Detect - Automatically identify and select the main object in your image
 Smart Edge Detection - Advanced boundary detection for precise selections
-✏Manual Selection - Point-and-click precision for complete control
+Manual Selection - Point-and-click precision for complete control
 
 Advanced Controls
 
 Undo Last Click - Fix mistakes instantly without starting over
 Invert Selection - Flip your selection if you selected the wrong area
 Additive Mode - Build complex selections by clicking multiple areas
-🎚Sensitivity Slider - Fine-tune magic wand tolerance (5-100)
+Sensitivity Slider - Fine-tune magic wand tolerance (5-100)
 
 Background Options
 
@@ -44,14 +44,14 @@ run the main file
 
 Upload Your Image
 
-Click "📁 Upload Photo"
+Click "Upload Photo"
 Select your image file
 
 
 Activate Magic Wand
 
-Click "🪄 Magic Wand (Click Multiple Areas)"
-Ensure "✚ Add to selection" is checked
+Click "Magic Wand (Click Multiple Areas)"
+Ensure "Add to selection" is checked
 
 
 Build Your Selection
